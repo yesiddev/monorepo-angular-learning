@@ -1,0 +1,3 @@
+[submodule "bases"]
+	path = bases
+	url = git@github.com:yesiddev/angular-bases.git
