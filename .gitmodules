@@ -1,3 +1,6 @@
 [submodule "bases"]
 	path = bases
 	url = git@github.com:yesiddev/angular-bases.git
+[submodule "ng-gifs"]
+	path = ng-gifs
+	url = git@github.com:yesiddev/ng-gifs
