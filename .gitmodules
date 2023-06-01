@@ -4,3 +4,6 @@
 [submodule "ng-gifs"]
 	path = ng-gifs
 	url = git@github.com:yesiddev/ng-gifs
+[submodule "ng-countries"]
+	path = ng-countries
+	url = git@github.com:yesiddev/ng-countries
